@@ -14,3 +14,20 @@ ipconfig로 나온 주소 첨부 () < dst3과 writer3 추가해서 이진화 적
 
 ### 시간 추가
 getTickCount 추가하기
+
+
+### 결과
+
+![image](https://github.com/user-attachments/assets/8b86662d-1e09-4ce8-9c57-54fe69351a0b)
+
+이진화 된 이미지
+
+![image](https://github.com/user-attachments/assets/d525e877-fa17-4953-9ae7-88e5b62eb479)
+
+그레이 변환
+
+![image](https://github.com/user-attachments/assets/f7d4adbc-4264-43fb-8d9f-b0fd0c83c1cd)
+
+원본 영상
+
+세 영상 전부 글씨가 출력됨. 다만 글씨 색깔도 이진화, 그레이 변환이 이뤄짐
